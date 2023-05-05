@@ -45,4 +45,4 @@ car1.showInfo();
 car2.showInfo();
 car3.showInfo();
 
-document.write(`${car1.showInfo()}`);
+
